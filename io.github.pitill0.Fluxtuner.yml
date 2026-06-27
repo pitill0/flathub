@@ -28,5 +28,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/pitill0/fluxtuner.git
-        tag: v0.6.0
-        commit: 85c8f1444386918f8ec6dc5a01f1cfa3eb522824
+        tag: v0.7.0
+        commit: 36a027a3eaee195fa95ecb448a4aba31a6338891
